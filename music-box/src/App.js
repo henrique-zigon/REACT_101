@@ -1,10 +1,10 @@
+import React from 'react';
+import Routes from './routes';
+
+
 function App() {
   return (
-    <p>
-      Olá mundo! Agora é nois no react!
-      <br />Level up!
-    </p>     
-    
+    <Routes></Routes>     
   );
 }
 
